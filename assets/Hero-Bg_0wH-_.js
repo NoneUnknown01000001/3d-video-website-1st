@@ -880,7 +880,7 @@ function Je() {
                         children: [
                           o.jsx("img", {
                             "code-path": "src/sections/Hero.tsx:291:21",
-                            src: "/hero-videographer.jpg",
+                            src: "./hero-videographer.jpg",
                             alt: "Professional Videographer",
                             className: "w-full h-auto object-cover",
                           }),

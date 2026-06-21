@@ -147,7 +147,7 @@ function N() {
                         children: [
                           e.jsx("img", {
                             "code-path": "src/sections/About.tsx:91:19",
-                            src: "/project-documentary.jpg",
+                            src: "./project-documentary.jpg",
                             alt: "Behind the scenes",
                             className: "w-full h-auto object-cover",
                           }),

@@ -19560,7 +19560,7 @@ function c2() {
     const d = [
       "/hero-videographer.jpg",
       "/project-wedding.jpg",
-      "/project-commercial.jpg",
+      "./project-commercial.jpg",
     ];
     Promise.all(
       d.map(

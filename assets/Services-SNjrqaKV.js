@@ -79,7 +79,7 @@ const w = [
         "Same-Day Edit",
       ],
       price: "From $2,500",
-      image: "/project-wedding.jpg",
+      image: "./project-wedding.jpg",
     },
     {
       icon: u,
@@ -93,7 +93,7 @@ const w = [
         "Event Coverage",
       ],
       price: "From $1,800",
-      image: "/project-corporate.jpg",
+      image: "./project-corporate.jpg",
     },
     {
       icon: k,
@@ -107,7 +107,7 @@ const w = [
         "Post-Production",
       ],
       price: "From $3,500",
-      image: "/project-music.jpg",
+      image: "./project-music.jpg",
     },
     {
       icon: M,
@@ -121,7 +121,7 @@ const w = [
         "Narration",
       ],
       price: "From $4,000",
-      image: "/project-travel.jpg",
+      image: "./project-travel.jpg",
     },
     {
       icon: j,
@@ -135,7 +135,7 @@ const w = [
         "Multi-Platform",
       ],
       price: "From $5,000",
-      image: "/project-commercial.jpg",
+      image: "./project-commercial.jpg",
     },
     {
       icon: S,
@@ -149,7 +149,7 @@ const w = [
         "Social Media",
       ],
       price: "From $2,200",
-      image: "/project-fashion.jpg",
+      image: "./project-fashion.jpg",
     },
   ];
 function A() {
